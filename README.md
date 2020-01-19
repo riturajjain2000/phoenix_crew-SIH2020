@@ -1,13 +1,30 @@
 # -phoenix_crew
 team phoenix crew's Repository
 
-We were asked to create a Pothole Detector and Complaint resolver according to our Problem Statement by the Government of Goa.
-Till now we have been successful in creating 6 activities for the app ,namely, 
-1.	 Home screen :- Which it the first screen to appear when one opens the app .
-2.	 Profile Page :- It allows the user to choose whether he is a Civilian or a Worker for the job.
-3a. Civilian Login Page:- Login Page for Civilian.
-3b. Worker Login Page:- Login Page for Worker.
-4. Civilian Activity :- Interactive Map Activity to detect potholes near him/her.
-5. Worker Activity :- Map Activity for workers showing nearby Potholes.
+PROBLEM STATEMENT - POTHOLE CHALLENGE (DR112)
+Ministry name :- Government of Goa
 
-%PROGRESS = about 50% 
+Goa has faced the rage of rains this year and pothole are the biggest problem which government is tackling. 
+Now problem lies in the fact that concerned departments are not able to co-ordinate to resolve the issue. 
+ISSUES -
+(a) Fundamentally there is disconnection between civil agencies, people and elected representatives. 
+(b) The aim is to build mobile based dynamic reporting system which will facilitate into flow of information among all concerned stakeholders. 
+(c) The aim is to provide better Governance by more involvement of public.
+
+According to the above Problem Statement, Potholes are of a major concern nowadays. Potholes are holes in the roadway that vary in size and shape. They are caused by the expansion and contraction of ground water after the water has entered into the ground under the pavement. When water freezes, it expands.
+We have come up with an idea of providing an IT platform in the way of an Android Application.
+We have named our Android Application as “Road-a-Mender”. It is basically a Pothole Detector and Complaint resolver service provider app.
+We were accompanied by the following Technology Stack :-
+1.Android Studio
+2.Google Maps API
+3.JAVA
+4.Firebase
+5.XML
+
+Our App provides following services :-
+1.	Pothole Detection. 
+2.	Complaint Resolvement.
+3.	Increased Transparency among the System.
+4.	Effective Communication and faster Implementation of Solutions.
+
+All over Progress = About 80-85%
