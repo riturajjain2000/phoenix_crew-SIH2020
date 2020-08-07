@@ -26,5 +26,3 @@ Our App provides following services :-
 2.	Complaint Resolvement.
 3.	Increased Transparency among the System.
 4.	Effective Communication and faster Implementation of Solutions.
-
-All over Progress = About 80-85%
